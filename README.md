@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TotalRaMpAgE981
-- 👀 I’m interested in: game development, game design, and game AI. Basically, games.
-- 🌱 I’m currently learning: computer science and interactive design
+- 👋 Hi, I’m @TotalRaMpAgE981, I just got my B.S. in Computer Science.
+- 👀 I’m interested in game development, game design, and game AI. Basically, games.
+- 🌱 I’m currently learning lots of stuff...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
