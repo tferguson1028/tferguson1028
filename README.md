@@ -4,8 +4,10 @@ I'm a recent grad with a BS in Computer Science.
 
 I've also done SE training with PerScholas.
 
+I like making games.
+
 ### <ins>Interests</ins>
-- 👀 **I’m interested in:** game development, game design, and game AI. Basically, games.
+- 👀 **I’m interested in:** Game Development and Software Development; this includes design, AI, and pretty much anything else within both the development and design process.
 - 🌱 **I’m currently learning:** A lot of different things.
 - 🛠️ **I'm currently working on:** My Github readme, portfolio website, and a game using Godot and Supabase. 
 
