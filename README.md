@@ -69,8 +69,6 @@ I've also done SE training with PerScholas.
 
 Icons by [Jemis Mali](https://iconscout.com/contributors/jemismali/icons) via [IconScout Packs](https://iconscout.com/contributors/jemismali/icons/shadow)
 
-Still working on this.
-
 <!--- 💞️ I’m looking to collaborate on ... --->
 <!--- - 📫 How to reach me ... use my email. --->
 
