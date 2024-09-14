@@ -1,14 +1,13 @@
-## 👋 Hi, I’m Tesean Ferguson
+## 👋 Hi, I’m Tesean Ferguson,
 
-I'm a recent grad with a BS in Computer Science.
+I'm a newish software and game developer.
 
-I've also done SE training with PerScholas.
-
-I like making games.
+- BS in Computer Science.
+- SE training with PerScholas.
 
 ### <ins>Interests</ins>
-- 👀 **I’m interested in:** Game Development and Software Development; this includes design, AI, and pretty much anything else within both the development and design process.
-- 🌱 **I’m currently learning:** A lot of different things.
+- 👀 **I’m interested in:** Game Development, Software Development, UI/UX Design, AI, and pretty much anything else within both the development and design process.
+- 🌱 **I’m currently learning:** Swift, React, Firebase, Supabase, Godot, and some other tools to help along the way.
 - 🛠️ **I'm currently working on:** My Github readme, portfolio website, and a game using Godot and Supabase. 
 
 ### <ins align="center">Skills</ins>
@@ -16,23 +15,10 @@ I like making games.
   <tr>
     <td width="20%" align="center">
       <img src="https://cdn.iconscout.com/icon/free/png-512/free-window-code-coding-development-css-html-javascript-2-4217.png?f=webp&w=256" width="48px" height="48px" />
-      <div><b>Frontend</b><div>
+      <div><b>Frontend</b></div>
     </td>
-    <td width="20%" align="center">
-      <img src="https://cdn.iconscout.com/icon/free/png-512/free-database-server-hosting-rack-data-hardware-info-1-4205.png?f=webp&w=256" width="48px" height="48px" />
-      <div><b>Backend</b></div>
-    </td>
-    <td width="20%" align="center">
-      <img src="https://cdn.iconscout.com/icon/free/png-512/free-setting-window-gear-preferences-repair-tool-support-1-4222.png?f=webp&w=256" width="48px" height="48px" />
-      <div><b>Games & Software</b></div>
-    </td>
-    <td width="20%" align="center">
-      <img src="https://cdn.iconscout.com/icon/free/png-512/free-scale-measure-pen-pencile-design-shape-1-4176.png?f=webp&w=256" width="48px" height="48px" />
-      <div><b>UI/UX Design</b></div>
-    </td>
-  </tr>
-  <tr>
     <td align="center"> <!-- Frontend -->
+      <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) -->
       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -42,13 +28,25 @@ I like making games.
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=black" />
     </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://cdn.iconscout.com/icon/free/png-512/free-database-server-hosting-rack-data-hardware-info-1-4205.png?f=webp&w=256" width="48px" height="48px" />
+      <div><b>Backend</b></div>
+    </td>
     <td align="center"> <!-- Backend -->
       <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
     </td>
-    <td align="center"> <!-- Game -->
+  </tr>
+  <tr><!-- Game -->
+    <td width="20%" align="center">
+      <img src="https://cdn.iconscout.com/icon/free/png-512/free-setting-window-gear-preferences-repair-tool-support-1-4222.png?f=webp&w=256" width="48px" height="48px" />
+      <div><b>Games & Software</b></div>
+    </td>
+    <td align="center">
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
       <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
@@ -58,7 +56,13 @@ I like making games.
       <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
       <img src="https://img.shields.io/badge/GameMaker-0E1128?style=for-the-badge&logo=gamemaker&logoColor=white" />
     </td>
-    <td align="center"> <!-- Design -->
+  </tr>
+  <tr><!-- Design -->
+    <td width="20%" align="center">
+      <img src="https://cdn.iconscout.com/icon/free/png-512/free-scale-measure-pen-pencile-design-shape-1-4176.png?f=webp&w=256" width="48px" height="48px" />
+      <div><b>UI/UX Design</b></div>
+    </td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
       <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
       <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=white" />
