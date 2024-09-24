@@ -6,7 +6,7 @@ I'm a newish software and game developer.
 - SE training with PerScholas.
 
 ### <ins>Interests</ins>
-- 👀 **I’m interested in:** Game Development, Software Development, UI/UX Design, AI, and pretty much anything else within both the development and design process.
+- 👀 **I’m interested in:** Game Development, Software Development, UI/UX Design, and pretty much anything else within both the development and design process.
 - 🌱 **I’m currently learning:** Swift, React, Firebase, Supabase, Godot, and some other tools to help along the way.
 - 🛠️ **I'm currently working on:** My Github readme, portfolio website, and a game using Godot and Supabase. 
 
