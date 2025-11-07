@@ -7,8 +7,8 @@ I'm a newish software and game developer.
 
 ### <ins>Interests</ins>
 - 👀 **I’m interested in:** Game Development, Software Development, UI/UX Design, and pretty much anything else within both the development and design process.
-- 🌱 **I’m currently learning:** Swift, React, Firebase, Supabase, Godot, and some other tools to help along the way.
-- 🛠️ **I'm currently working on:** My Github readme, portfolio website, and a game using Godot and Supabase. 
+- 🌱 **I’m currently learning:** C#, WPF, SQL, SwiftUI, React, Firebase, Supabase, Godot, and some other tools to help along the way.
+- 🛠️ **I'm currently working on:** Work and maybe a side project somewhere. 
 
 ### <ins align="center">Skills</ins>
 <table align="center">
