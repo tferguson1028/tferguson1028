@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Tesean Ferguson,
 
-I'm a newish software and game developer.
+I'm a newish software developer, a hobbyist/wanabe game developer, and a designer.
 
 - BS in Computer Science.
 - SE training with PerScholas.
