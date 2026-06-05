@@ -7,12 +7,14 @@ I'm a newish software developer, a hobbyist/wanabe game developer, and a designe
 
 ### <ins>Interests</ins>
 - 👀 **I’m interested in:** Game Development, Software Development, UI/UX Design, and pretty much anything else within both the development and design process.
-- 🌱 **I’m currently learning:** C#, WPF, SQL, SwiftUI, React, Firebase, Supabase, Godot, and some other tools to help along the way.
+- 🌱 **I’m currently learning:** C#, WPF, SQL, SwiftUI, React, Firebase, Supabase, Godot, Shaders, Music Production, Level Design, Lua, Go, and a lot of other things to help along the way.
 - 🛠️ **I'm currently working on:** Multiple personal and work projects (Someone stop me)
-    - Making a website. Original one was with react and Typescript. Am pivoting to Hugo
-    - Recreating my game prototype on a PC based game engine. [Here's the prototype](https://indreams.me/dream/mNUoKLZzQBW) (Only playable on the game Dreams)
-    - A tiny online multiplayer BR game (Not like Fortnite) using Godot and Nakama
-    - A simple local database engine 
+
+I'm probably not allowed to talk about my work projects, so here's **my current personal projects**
+- My personal website for showcasing my porjects and consolidating all my different links. Original one was with React and Typescript. I'm going to be pivoting to **Hugo** and starting from scratch on there.
+- Recreating my game prototype on a PC based game engine. [Here's the prototype](https://indreams.me/dream/mNUoKLZzQBW) (Only playable on the game Dreams)
+- A tiny online multiplayer BR game (Not like Fortnite) using Godot and Nakama
+- A simple local database engine 
 
 ### <ins align="center">Skills</ins>
 <table align="center">
