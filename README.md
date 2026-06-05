@@ -2,21 +2,26 @@
 
 I'm a newish software developer, a hobbyist/wanabe game developer, and a designer.
 
-- BS in Computer Science.
-- SE training with PerScholas.
+- Bachelors in Computer Science (All the works, Theory of Programming Language and Linear Algreba were my favorite classes)
+- Minor in Digital Media Arts (Graphic, Sound, and Media Design stuff) 
+- SE training with PerScholas (Full Stack Engineering)
 
 ### <ins>Interests</ins>
 - 👀 **I’m interested in:** Game Development, Software Development, UI/UX Design, and pretty much anything else within both the development and design process.
-- 🌱 **I’m currently learning:** C#, WPF, SQL, SwiftUI, React, Firebase, Supabase, Godot, Shaders, Music Production, Level Design, Lua, Go, and a lot of other things to help along the way.
+- 🌱 **I’m currently learning:** C#, WPF, SQL, NoSQL, SwiftUI, React, Firebase, Supabase, Godot, Shaders, Music Production, Level Design, Lua, Go, and a lot of other things to help along the way.
 - 🛠️ **I'm currently working on:** Multiple personal and work projects (Someone stop me)
 
 I'm probably not allowed to talk about my work projects, so here's **my current personal projects**
-- My personal website for showcasing my porjects and consolidating all my different links. Original one was with React and Typescript. I'm going to be pivoting to **Hugo** and starting from scratch on there.
-- Recreating my game prototype on a PC based game engine. [Here's the prototype](https://indreams.me/dream/mNUoKLZzQBW) (Only playable on the game Dreams)
-- A tiny online multiplayer BR game (Not like Fortnite) using Godot and Nakama
+- My personal website for showcasing my porjects and consolidating all my different links. Original one was with React and Typescript. I'm going to be pivoting to [Hugo](https://github.com/gohugoio/hugo) and starting from scratch on there.
+- Transforming one of my prototypes into a full game for PC. It'll take a lot of work but I'm up for it. **[Here's the prototype](https://indreams.me/dream/mNUoKLZzQBW)**. *(Must have access to [Dreams](https://store.playstation.com/en-us/product/UP9000-CUSA08010_00-DREAMS0000000000) to play it)*
+- A tiny, casual, Battle Royal game (not like Fortnite) using [Nakama](https://github.com/heroiclabs/nakama) and [Godot](https://github.com/godotengine/godot)
 - A simple local database engine 
 
-### <ins align="center">Skills</ins>
+Interested in hearing about any of these? Just bug me until I respond. Your best bet is to [put an issue on my profile repo](https://github.com/tferguson1028/tferguson1028/issues)
+
+----
+
+### <ins align="center">Skills (Outdated and I need to remove this, recruiters don't look here anyways)</ins>
 <table align="center">
   <tr>
     <td width="20%" align="center">
@@ -84,6 +89,8 @@ I'm probably not allowed to talk about my work projects, so here's **my current 
 </table>
 
 <!-- <img src="https://img.shields.io/badge/name-color?style=for-the-badge&logo=icon&logoColor=white" /> -->
+
+----
 
 Icons by [Jemis Mali](https://iconscout.com/contributors/jemismali/icons) via [IconScout Packs](https://iconscout.com/contributors/jemismali/icons/shadow)
 
