@@ -10,7 +10,7 @@ Interested in hearing about my current projects or just getting into contact wit
 
 
 <details>
-  <summary><h3><ins>Interests</ins></h3></summary>
+  <summary><h3><ins>Projects & Interests</ins></h3></summary>
   
 - 👀 **I’m interested in:** Game Development, Software Development, UI/UX Design, and pretty much anything else within both the development and design process.
 - 🌱 **I’m currently learning:** C#, WPF, SQL, NoSQL, SwiftUI, React, Firebase, Supabase, Godot, Shaders, Music Production, Level Design, Lua, Go, and a lot of other things to help along the way.
