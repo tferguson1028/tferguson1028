@@ -25,7 +25,7 @@ I'm probably not allowed to talk about my work projects, so here's **my current 
 </details>
 
 <details>
-  <summary><h3><ins>Skills (Outdated and I need to remove this, recruiters don't look here anyways)</ins></h3></summary>
+  <summary><h3><ins>Skills (Outdated and I need to replace this with something actually useful)</ins></h3></summary>
   <table align="center">
     <tr>
       <td width="20%" align="center">
